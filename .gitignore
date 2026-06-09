@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.ipynb_checkpoints/
+
+# Generated evaluation artifacts
+data/out/test_results.csv
+data/out/metrics.txt
+data/out/*test_results*.csv
+data/out/*metrics*.txt
+data/out/test_data.parquet
+data/out/*test_data*.parquet
+
+# Notebook outputs
+notebooks/outputs/
+notebooks/flybys/*.csv
