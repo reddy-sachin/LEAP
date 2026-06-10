@@ -77,6 +77,7 @@ Outputs:
 ## Referencing
 If you find this method and/or code useful, please cite it:
 
-Reddy, S. A., Azari, A., Cochrane, C., Jia, X., Nordheim, T., Mandrake, L., Vance, S., Harris, C. & Ciuca, I. (In-review). LEAP: A Rapid Neural Surrogate of Multi-Fluid MHD at Europa. Nature Communications AI & Computing.
+ArXiv [pre-print]: https://arxiv.org/abs/2606.10215
 
-[Formal reference to follow]
+Reddy, S. A., Azari, A., Cochrane, C., Jia, X., Nordheim, T., Mandrake, L., Vance, S., Harris, C. & Ciuca, I. (In-review). LEAP: A Rapid Neural Surrogate of Multi-Fluid MHD at Europa. 
+
