@@ -79,7 +79,9 @@ If you find this method and/or code useful, please cite it:
 
 ArXiv [pre-print]: https://arxiv.org/abs/2606.10215
 
-Hugging Face (training data + weights + model): https://huggingface.co/collections/reddysachin/leap-collection 
+Data + Model + Weights [Hugging Face] https://huggingface.co/collections/reddysachin/leap-collection 
+
+Latest Release: [![DOI](https://zenodo.org/badge/1091849440.svg)](https://doi.org/10.5281/zenodo.21364934)
 
 Reddy, S. A., Azari, A., Cochrane, C., Jia, X., Nordheim, T., Mandrake, L., Vance, S., Harris, C. & Ciuca, I. (In-review). LEAP: A Rapid Neural Surrogate of Multi-Fluid MHD at Europa. 
 
